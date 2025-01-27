@@ -1,2 +1,2 @@
 # my-cart
-The only my-cart
+The only my-cart.
